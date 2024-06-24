@@ -1,5 +1,7 @@
 Fruit and Vegetable Classification using Transfer Learning
 Description
+
+
 This project focuses on applying transfer learning techniques to classify fruits and vegetables. The objective is to leverage pre-trained models and fine-tune them for specific tasks, thereby reducing training time and improving performance.
 
 Dataset
